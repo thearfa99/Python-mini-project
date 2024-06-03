@@ -1,4 +1,4 @@
-# Python mini project
+# Python Weather App
 During my first semester at university, I embarked on a project to develop a weather application using Python and the Tkinter library for the GUI. This project, which integrates with APIs from OpenWeatherMap and IPStack, provides users with real-time weather updates based on either their input city or their current geographical location.
 
 Key Features:
